@@ -17,7 +17,9 @@ Period : 1976 to 2015
 
 Methods used and compared:
 Linear Regression                                                                                                                                                                  
-Support Vector Regressor                                                                                                                                                            
+Support Vector Regressor                                                                                                                                                           
 Decision Tree Regressor                                                                                                                                                             
-Multi Layer Perceptron Regressor                                                                                                                                                    
-Random Forest Regressor                                                                                                                                                              
+Multi Layer Perceptron Regressor                                                                                                                                                   
+Random Forest Regressor                                                                                                                                                             
+
+Convolutional Neural Network
